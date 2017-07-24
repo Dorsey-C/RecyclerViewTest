@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "H:\\projectPlace\\RecyclerViewTest\\library\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 74,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "H:\\sdk\\.android\\build-cache\\19b60374e290438ac6c28e27aed8d1f58dab9614\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 74,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 65,
+                    "endOffset": 463
+                },
+                "from": {
+                    "file": "H:\\sdk\\.android\\build-cache\\19b60374e290438ac6c28e27aed8d1f58dab9614\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 65,
+                        "endOffset": 806
+                    }
+                }
+            }
+        ]
+    }
+]
