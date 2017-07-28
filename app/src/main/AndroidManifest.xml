@@ -17,7 +17,9 @@
         </activity>
         <activity android:name=".gallery.RecyclerViewGalleryActivity" />
         <activity android:name=".customview.CustomerViewActivity" />
-        <activity android:name=".customview.CustomerImageViewActivity"></activity>
+        <activity android:name=".customview.CustomerImageViewActivity" />
+        <activity android:name=".customview.CustomProgressBarActivity" />
+        <activity android:name=".customview.CustomVolumControlBarActivity"></activity>
     </application>
 
 </manifest>

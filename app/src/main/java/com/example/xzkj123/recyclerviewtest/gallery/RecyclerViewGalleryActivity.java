@@ -11,6 +11,8 @@ import android.widget.Toast;
 import com.example.xzkj123.recyclerviewtest.MainActivity;
 import com.example.xzkj123.recyclerviewtest.R;
 import com.example.xzkj123.recyclerviewtest.adapter.GalleryAdapter;
+import com.example.xzkj123.recyclerviewtest.customview.CustomProgressBarActivity;
+import com.example.xzkj123.recyclerviewtest.customview.CustomVolumControlBarActivity;
 import com.example.xzkj123.recyclerviewtest.customview.CustomerImageViewActivity;
 import com.example.xzkj123.recyclerviewtest.customview.CustomerViewActivity;
 
@@ -73,7 +75,9 @@ public class RecyclerViewGalleryActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 //                startActivity(new Intent(RecyclerViewGalleryActivity.this, CustomerViewActivity.class));
-                startActivity(new Intent(RecyclerViewGalleryActivity.this, CustomerImageViewActivity.class));
+//                startActivity(new Intent(RecyclerViewGalleryActivity.this, CustomerImageViewActivity.class));
+//                startActivity(new Intent(RecyclerViewGalleryActivity.this, CustomProgressBarActivity.class));
+                startActivity(new Intent(RecyclerViewGalleryActivity.this, CustomVolumControlBarActivity.class));
             }
         });
     }
